@@ -8,7 +8,7 @@ import lombok.ToString;
 
 import java.time.LocalDate;
 
-@Table(name = "vaccination")
+@Table(name = "vaccine")
 @Entity
 @Getter
 @Setter
