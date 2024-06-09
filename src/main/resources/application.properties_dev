@@ -1,9 +1,0 @@
-spring.datasource.url=jdbc:postgresql://dpg-cpj09k6ct0pc73829kl0-a.oregon-postgres.render.com/vet_app_h087
-spring.datasource.username=vet_app_h087_user
-spring.datasource.password=rpVby4MFJcgltzE3yf7Y4qwJqYKtIQCY
-spring.datasource.driver-class-name=org.postgresql.Driver
-spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
-spring.jpa.hibernate.ddl-auto=update
-
-
-
